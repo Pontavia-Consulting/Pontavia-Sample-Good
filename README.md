@@ -3,8 +3,8 @@
 A sample website built by **Pontavia Consulting** to show what the **Good ($950)** website package includes.
 Fern & Field Garden Co. is a made-up business in Ocala, Florida.
 
-Live demo: https://pontavia-consulting.github.io/pontavia-sample-good/
-Compare all three packages: https://pontavia-consulting.github.io/pontavia-samples/
+Live demo: https://pontavia-consulting.github.io/Pontavia-Sample-Good/
+Compare all three packages: https://pontavia-consulting.github.io/Pontavia-Samples/
 
 A clean, fast, mobile-first brochure site: everything a local service business needs to look professional and get calls and quote requests.
 
